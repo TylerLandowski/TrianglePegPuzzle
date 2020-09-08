@@ -1,0 +1,119 @@
+    0
+   1 1
+  1 1 1
+ 1 1 1 1
+1 1 1 1 1
+
+29760 solutions found out of 568630 possible games (5.23%)
+
+    1
+   0 1
+  1 1 1
+ 1 1 1 1
+1 1 1 1 1
+
+14880 solutions found out of 294543 possible games (5.05%)
+
+    1
+   1 0
+  1 1 1
+ 1 1 1 1
+1 1 1 1 1
+
+14880 solutions found out of 294543 possible games (5.05%)
+
+    1
+   1 1
+  0 1 1
+ 1 1 1 1
+1 1 1 1 1
+
+85258 solutions found out of 1149568 possible games (7.42%)
+
+    1
+   1 1
+  1 0 1
+ 1 1 1 1
+1 1 1 1 1
+
+1550 solutions found out of 137846 possible games (1.12%)
+
+    1
+   1 1
+  1 1 0
+ 1 1 1 1
+1 1 1 1 1
+
+85258 solutions found out of 1149568 possible games (7.42%)
+
+    1
+   1 1
+  1 1 1
+ 0 1 1 1
+1 1 1 1 1
+
+14880 solutions found out of 294543 possible games (5.05%)
+
+    1
+   1 1
+  1 1 1
+ 1 0 1 1
+1 1 1 1 1
+
+1550 solutions found out of 137846 possible games (1.12%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 0 1
+1 1 1 1 1
+
+1550 solutions found out of 137846 possible games (1.12%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 1 0
+1 1 1 1 1
+
+14880 solutions found out of 294543 possible games (5.05%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 1 1
+0 1 1 1 1
+
+29760 solutions found out of 568630 possible games (5.23%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 1 1
+1 0 1 1 1
+
+14880 solutions found out of 294543 possible games (5.05%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 1 1
+1 1 0 1 1
+
+85258 solutions found out of 1149568 possible games (7.42%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 1 1
+1 1 1 0 1
+
+14880 solutions found out of 294543 possible games (5.05%)
+
+    1
+   1 1
+  1 1 1
+ 1 1 1 1
+1 1 1 1 0
+
+29760 solutions found out of 568630 possible games (5.23%)
