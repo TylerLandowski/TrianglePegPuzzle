@@ -1,5 +1,5 @@
 # TrianglePegPuzzle
-Solver for the triangle peg puzzle / cracker barrel / golf tee puzzle
+Solver for the triangle peg puzzle / cracker barrel / golf tee puzzle, in Python
 
 ![Preview](preview.PNG)
 
